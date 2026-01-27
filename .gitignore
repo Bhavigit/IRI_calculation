@@ -1,0 +1,40 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# PyCharm / IDE files
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Results & experiment outputs
+results_geo_*/
+results_geo_rf*/
+results_geo_1/
+results_geo_2/
+results_geo_rf/
+results_geo_rf_1/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large raw datasets
+Raw_data/
+
+# Model files
+*.pkl
+*.joblib
+
+# Temporary files
+*.tmp
+*.swp
